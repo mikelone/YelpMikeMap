@@ -5,5 +5,7 @@
 
 #ignore files
 *.bmp
+*.png
 *.plist
+
 

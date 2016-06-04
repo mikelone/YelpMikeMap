@@ -1,0 +1,9 @@
+#ignore folders
+/SDWebImage
+/OAuthConsumer
+/Images.xcassets
+
+#ignore files
+*.bmp
+*.plist
+

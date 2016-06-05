@@ -29,7 +29,7 @@ OAuthConsumer - needed folder from yelp SDK package
 
 ###PLIST 
 
-as for plist need to add the following
+as for plist, need to add the following
 
 NSLocationWhenInUseUsage
 
@@ -37,7 +37,7 @@ NSAppTransportSecurity  dict -> NSAllowsArbitraryLoads -> bool yes
  
 ##How to run the file
 
-once downloaded .. make sure you have to folder (SDWebImage and OAuthConsumer) 
+once downloaded .. make sure you have two folders (SDWebImage and OAuthConsumer) 
 
 need the **SDWebImage** to show the picture from an Url and **OAuthConsumer** which is given by yelp SDK package. must add **NSLocationWhenInUseUsage** and **NSAppTransportSecurity** to your *Plist* .. also the yelp prefix to avoid errors from legacy classes and functions. 
 
